@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Communication-Bluetooth-lightblue?style=for-the-badge&logo=bluetooth" />
   <img src="https://img.shields.io/badge/Type-SSIP%20Project-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IDE-Arduino-teal?style=for-the-badge&logo=arduino" />
+  <img src="https://img.shields.io/badge/License-Proprietary%20%7C%20Permission%20Required-orange?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -244,16 +245,23 @@ Pair your phone to `BP_Watch` and open a Bluetooth Serial terminal (e.g., Serial
 
 **Department:** Computer Engineering  
 **Program:** SSIP (Student Startup and Innovation Policy) — Government of Gujarat  
+**Year:** 2025–2026
 **Institution:** Charusat University
 
 ---
 
 ## 📄 License
 
-This project is open-source and available for educational use. If you use this work, please give appropriate credit to the authors.
+> **All Rights Reserved — Proprietary License**
+>
+> This project is protected under a proprietary license. You may **not** copy, distribute, modify, or use this work without **prior written permission** from the authors.
+>
+> See the [LICENSE](./LICENSE) file for full terms.
+>
+> To request permission, contact **Fenil Finava** via [GitHub](https://github.com/fenilfinava).
 
 ---
 
 <p align="center">
-  Made with ❤️ for healthcare innovation | SSIP Project 2024–25
+  Made with ❤️ for healthcare innovation | SSIP Project 2025–2026
 </p>

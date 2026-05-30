@@ -1,0 +1,64 @@
+Copyright (c) 2025-2026 Fenil Finava & Prof. Pinal Hansora
+Charusat University — Computer Engineering Department
+SSIP Project
+
+All Rights Reserved.
+
+================================================================================
+PROPRIETARY LICENSE — PERMISSION REQUIRED
+================================================================================
+
+This software, firmware, documentation, and all associated files in this
+repository (collectively referred to as "the Work") are the exclusive
+intellectual property of the authors listed above.
+
+RESTRICTIONS
+------------
+You may NOT, without prior written permission from the copyright holders:
+
+  1. Copy, reproduce, or duplicate any part of the Work
+  2. Modify, adapt, translate, or create derivative works based on the Work
+  3. Distribute, publish, sublicense, sell, or otherwise transfer the Work
+     or any portion thereof to any third party
+  4. Use the Work, in whole or in part, in any commercial product or service
+  5. Use the Work for any purpose beyond personal viewing/reference
+
+PERMITTED USE
+-------------
+You MAY, without permission:
+
+  * View and read the source code for educational reference only
+  * Star or fork the repository on GitHub for private, non-redistributed study
+  * Cite this project in academic papers with full attribution to the authors
+
+REQUESTING PERMISSION
+---------------------
+To request permission for any use not covered above (e.g., academic
+collaboration, extended research, or derivative projects), contact:
+
+  Fenil Finava
+  GitHub : https://github.com/fenilfinava
+  Email  : [your email here]
+
+  Prof. Pinal Hansora
+  Charusat University — Computer Engineering Dept.
+
+All permission requests must be made in writing. Verbal agreements are not
+binding. Permission is granted at the sole discretion of the copyright holders
+and may be revoked at any time.
+
+NO WARRANTY
+-----------
+THE WORK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM THE USE OR INABILITY TO USE THE WORK.
+
+MEDICAL DISCLAIMER
+------------------
+This project is developed for educational and prototype purposes only.
+The blood pressure estimates produced by this device have not been clinically
+validated and must not be used for medical diagnosis or treatment.
+
+================================================================================
