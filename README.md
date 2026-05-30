@@ -244,7 +244,7 @@ Pair your phone to `BP_Watch` and open a Bluetooth Serial terminal (e.g., Serial
 
 **Department:** Computer Engineering  
 **Program:** SSIP (Student Startup and Innovation Policy) — Government of Gujarat  
-**Institution:** [Your College Name]
+**Institution:** Charusat University
 
 ---
 
