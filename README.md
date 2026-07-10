@@ -236,17 +236,29 @@ Pair your phone to `BP_Watch` and open a Bluetooth Serial terminal (e.g., Serial
 
 ---
 
-## 👨‍💻 Authors
+## 🏆 Funding & Support
+
+This project has been successfully approved for a **Seed Money Grant of Rs. 35,000/-** by the **CHARUSAT Start-up and Innovation Centre (CSIC)** under the **Student Startup and Innovation Policy (SSIP)** of the Government of Gujarat.
+
+<p align="center">
+  <img src="assets/grant_approval.jpg" alt="SSIP Grant Approval Letter" width="600"/>
+</p>
+
+---
+
+## 👨‍💻 Team
 
 | Name | Role |
 |---|---|
-| **Fenil Finava** | Developer & Embedded Systems Engineer |
-| **Prof. Pinal Hansora** | Project Guide & Mentor |
+| **Bansi Lakhani** | Team Member |
+| **Fenil Finava** | Team Member (Developer & Embedded Systems Engineer) |
+| **Dr. Megha Gohil** | Project Mentor |
+| **Mr. Pinal Hansora** | Project Mentor |
 
 **Department:** Computer Engineering  
 **Program:** SSIP (Student Startup and Innovation Policy) — Government of Gujarat  
-**Year:** 2025–2026
-**Institution:** Charusat University
+**Year:** 2025–2026  
+**Institution:** CHARUSAT (Charotar University of Science and Technology)
 
 ---
 
